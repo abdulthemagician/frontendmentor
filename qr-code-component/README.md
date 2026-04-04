@@ -7,10 +7,10 @@ The challenge was to build a QR code component and make it look as close to the 
 ### Screenshot
 
 desktop
-![[qr-code-component-destop.png]]
+![qr code component desktop](./images/qr-code-component-desktop.png)
 
 mobile
-![[qr-code-component-mobile.png]]
+![qr code component mobile](images/qr-code-component-mobile.png)
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
